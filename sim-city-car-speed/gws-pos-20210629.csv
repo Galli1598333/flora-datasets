@@ -1,0 +1,6 @@
+run,repetition,Module,Gateway X,Gateway Y
+General-0-20210629-13:53:09-22345,0,LoRaNetworkTest.loRaGW[0].packetForwarder,404.65498513076,260.64626159612
+General-0-20210629-13:53:09-22345,0,LoRaNetworkTest.loRaGW[1].packetForwarder,399.73579913843,204.8812065227
+General-0-20210629-13:53:09-22345,0,LoRaNetworkTest.loRaGW[2].packetForwarder,296.83930034284,307.11129294243
+General-0-20210629-13:53:09-22345,0,LoRaNetworkTest.loRaGW[3].packetForwarder,186.81558578275,211.29011658952
+General-0-20210629-13:53:09-22345,0,LoRaNetworkTest.loRaGW[4].packetForwarder,146.86591841746,420.215580808
